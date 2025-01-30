@@ -1,5 +1,5 @@
 const config = {
-  challenge: true, // Set to true for password protection
+  challenge: false, // Set to true for password protection
   users: {
     interstellar: "password",
   },
